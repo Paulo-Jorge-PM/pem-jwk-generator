@@ -6,7 +6,7 @@ Contact: paulo.jorge.pm@gmail.com
 
 import json
 import os
-from jwcrypto import jwk  # pip install jwcrypto
+from jwcrypto import jwk
 
 # Alternatives:
 # One can use online tools like:
